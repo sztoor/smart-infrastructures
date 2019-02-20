@@ -1,5 +1,5 @@
-# smart-infrastructures
-One model for one question, making the e-infrastructures smart
+# Smart-infrastructures
+One model -- one question, making the e-infrastructures smart
 
 
 ## Steps to configure the environment
