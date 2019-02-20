@@ -22,7 +22,7 @@ Note: The containers are based on TensorFlow base containers.
 
 5 - Place all input files in the ```input-data``` directory. 
 
-6 - Run the following command: 
+6 - Start the container with the following command: 
 
 ```docker run  -it -v /Users/salmantoor/smart-infra/input-data:/smart-infra/input-data  -w /smart-infra smart-infra/question-1 python model.py```
 
