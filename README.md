@@ -14,17 +14,17 @@ Note: The containers are based on TensorFlow base containers.
  
 3 - Create following three directories:
 
-   -  smart-infra
-   -  smart-infra/input-data
-   -  smart-infra/input-data
+   -  ```smart-infra```
+   -  ```smart-infra/input-data```
+   -  ```smart-infra/input-data```
    
 4 - Goto smart-infra directory.
 
-5 - Place all input files in the input-data directory. 
+5 - Place all input files in the ```input-data``` directory. 
 
 6 - Run the following command: 
 
 ```docker run  -it -v /Users/salmantoor/smart-infra/input-data:/smart-infra/input-data  -w /smart-infra smart-infra/question-1 python model.py```
 
-7 - The output-data directory will contain the results of the run. (Need some work .. )
+7 - The ```output-data``` directory will contain the results of the run. (Need some work .. )
 
