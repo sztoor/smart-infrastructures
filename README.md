@@ -10,6 +10,7 @@ Note: The containers are based on TensorFlow base containers.
 
 2 - Pull question container.  
 
+For example question-1 container: 
 ```docker pull salmantoor/smart-infrastructures:question-1```
  
 3 - Create following three directories:
