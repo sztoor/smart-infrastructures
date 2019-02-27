@@ -16,7 +16,7 @@ Note: The containers are based on TensorFlow base containers.
 
    -  ```smart-infra```
    -  ```smart-infra/input-data```
-   -  ```smart-infra/input-data```
+   -  ```smart-infra/output-data```
    
 4 - Goto smart-infra directory.
 
