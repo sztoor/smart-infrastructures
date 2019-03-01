@@ -1,5 +1,5 @@
 # Smart-infrastructures
-One model -- one question, making the e-infrastructures smart
+Model-driven answers to high-level data centre infrastructure related questions, making the e-infrastructures smart
 
 
 ## Steps to configure the environment
